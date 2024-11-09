@@ -1,0 +1,6 @@
+const Card = (props)=>{
+    const{ name ,year ,point }=props
+    return(
+        
+    )
+}
